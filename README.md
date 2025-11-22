@@ -5,8 +5,7 @@
 <br>
 --Mutual Learning: People teach and learn from each other, fostering a collaborative learning environment.
 <br>
---Diverse Skill Exchange: From coding and graphic design to music and language learning, SkillSwap can cover various domains.
-<br>
+--Diverse Skill Exchange: From coding and graphic design to music and language learning
 
 
 
